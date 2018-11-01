@@ -1,0 +1,22 @@
+#page{
+	margin: auto;
+	width: 25%;
+	background-color: #FFFFFF;
+	border: 1px solid #D6D6D6;
+	box-shadow: 1px 1px #D6D6D6;
+}
+body{
+	background-color: #EFEFEF;
+}
+img {
+	align-items: center;
+}
+.text{
+	margin-left: 60px;
+	margin-top: 5px;
+	margin-bot: 5px;
+	line-height: 0.7;
+}
+ul{
+	margin-left: 47px;
+}
